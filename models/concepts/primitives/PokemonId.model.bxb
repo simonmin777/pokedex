@@ -1,0 +1,3 @@
+integer (PokemonId) {
+  description (The integer corresponding to a Pokemon true ID)
+}

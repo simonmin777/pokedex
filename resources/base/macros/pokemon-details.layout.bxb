@@ -1,0 +1,48 @@
+layout-macro-def (pokemon-details) {
+  params {
+    param (pokemon) {
+      type (Pokemon)
+      min (Required) max (One)
+    }
+  }
+  content {
+    section {
+      content {
+
+        compound-card {
+            content {
+                image-card {
+                    size (M)
+                    image-url ("#{value(pokemon.pokemonImageUrl)}")
+                    title-area {
+                        halign (Start)
+                        slot1 {
+                            text {
+                            value ("")
+                            style (Title_M)
+                            }
+                        }
+                    }
+                }
+                single-line {
+                    text {
+                        value {
+                            template ("#{value(pokemon.pokemonId)} - #{value(pokemon.pokemonName)}")
+                        }
+                        style (Title_M)
+                    }
+                }
+                single-line {
+                    text {
+                        value {
+                            template ("#{value(pokemon.pokemonTypeName)}") 
+                        }
+                        style (Title_M)
+                    }
+                }
+            }
+        }        
+      }
+    }
+  }
+}

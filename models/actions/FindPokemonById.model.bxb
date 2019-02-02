@@ -1,0 +1,11 @@
+action (FindPokemonById) {
+  description (Find Pokemon based on Id)
+  type(Search)
+  collect {
+    input (pokemonId) {
+      type (PokemonId)
+      min (Required) max (One)
+    }
+  }
+  output (Pokemon)
+}

@@ -1,0 +1,5 @@
+train (t-eko2ss2dhlxfz7jolu4ok4v3p) {
+  utterance ("[g:FindPokemonByName] What is (Ekans)[v:PokemonName]?")
+  plan (Y2BmkCvISaxML8ovzUvRK8jPTk1JrQhJLS7RCwCyc/PzGDRwyLtl5qVA1ThV+iXmpjIo4TcJrIaJgRGIGYAkIwMIQPkA)
+  last-modified (1547061911404)
+}

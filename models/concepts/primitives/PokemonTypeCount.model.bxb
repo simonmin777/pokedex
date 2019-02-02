@@ -1,0 +1,3 @@
+integer (PokemonTypeCount) {
+  description (The number of pokemon of a given type)
+}

@@ -1,0 +1,5 @@
+train (t-3ln419r38igysf7aa8qh840v2) {
+  utterance ("[g:FindPokemonByType] What (water)[v:PokemonTypeName] pokemon are there?")
+  plan (Y2BlkCvISaxML8ovzUvRK8jPTk1JrQhJLS7RCwCyc/PzGDRwyLtl5qVA1ThVhlQWpDKo4DcJpMYzhUEThyrn/Lyy1KISJMUMaoQN9EvMTWVgYWBkYGJgBtIMUBYjmAUCTEAaKA4A)
+  last-modified (1547061911030)
+}

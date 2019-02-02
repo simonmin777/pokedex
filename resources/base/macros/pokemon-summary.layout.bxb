@@ -1,0 +1,27 @@
+layout-macro-def(pokemon-summary) {
+  params {
+    param (pokemon) {
+      type (Pokemon)
+      min (Required)
+      max (One)
+    }
+  }
+
+  content {
+    image-card {
+      size (M)
+      image-url {
+        template ("#{value(pokemon.pokemonImageUrl)}")
+      }
+      title-area {
+        halign (Start)
+        slot1 {
+          text {
+            value ("#{value(pokemon.pokemonName)} - #{value(pokemon.pokemonTypeName)}")
+            style (Title_L)
+          }
+        }
+      }
+    }
+  }
+}

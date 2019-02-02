@@ -1,0 +1,10 @@
+train (t-1go9ebffz0vvtm01mujop6dc2) {
+  utterance ("[g:FindPokemonById] What pokemon has an ID of (6)[v:PokemonId]?")
+  plan (Y2BmkCvISaxML8ovzUvRK8jPTk1JrQhJLS7RCwCyc/PzGNRwyLtl5qVA1ThVeqYwKOA3B6iCiYERiBmAJCMDCED5AA==)
+  last-modified (1547061910648)
+}
+train (t-1gq85aer2vfcycswvqz2t9g16) {
+  utterance ("[g:FindPokemonById] What is pokemon (19)[v:PokemonId]?")
+  plan (Y2BmkCvISaxML8ovzUvRK8jPTk1JrQhJLS7RCwCyc/PzGNRwyLtl5qVA1ThVeqYwKOA3B6iCiYERiBmAJCMDCED5AA==)
+  last-modified (1547061910850)
+}

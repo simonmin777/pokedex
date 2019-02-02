@@ -1,0 +1,10 @@
+train (t-thuz4qpuebdp4icfpw8cq5mk1) {
+  utterance ("[g:FindPokemonByName] Who is (Raichu)[v:PokemonName]?")
+  plan (Y2BmkCvISaxML8ovzUvRK8jPTk1JrQhJLS7RCwCyc/PzGDRwyLtl5qVA1ThV+iXmpjIo4TcJrIaJgRGIGYAkIwMIQPkA)
+  last-modified (1547061912434)
+}
+train (t-tri5i95cefcl6uitvx853u7e2) {
+  utterance ("[g:FindPokemonById] What is the pokemon number (5)[v:PokemonId]?")
+  plan (Y2BmkCvISaxML8ovzUvRK8jPTk1JrQhJLS7RCwCyc/PzGNRwyLtl5qVA1ThVeqYwKOA3B6iCiYERiBmAJCMDCED5AA==)
+  last-modified (1547061912639)
+}

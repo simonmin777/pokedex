@@ -1,0 +1,35 @@
+result-view {
+  match {
+    PokemonTypeCount(this)
+  }
+
+  render {
+    if (this < 1) {
+      layout {
+        section {
+          content {
+            single-line {
+              text {
+                value ("There are no pokemon of this type.")
+                style (Detail_M)
+              }
+            }
+          }
+        }
+      }
+    } else-if (this >= 1){
+      layout {
+        section {
+          content {
+            single-line {
+              text {
+                value ("I found #{value(this)} pokemon of this type.")
+                style (Detail_M)
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

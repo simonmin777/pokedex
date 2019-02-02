@@ -1,0 +1,11 @@
+action (ConvertPokemonType) {
+  description (Converts a type of pokemon to its corresponding Id required by the PokeAPI)
+  type(Search)
+  collect {
+    input (pokemonTypeName) {
+      type (PokemonTypeName)
+      min (Required) max (One)
+    }
+  }
+  output (PokemonTypeId)
+}

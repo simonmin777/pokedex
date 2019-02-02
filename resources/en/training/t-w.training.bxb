@@ -1,0 +1,10 @@
+train (t-wi9bkzsxf9qap6y6863xcrdm2) {
+  utterance ("[g:FindPokemonByName] What is (Geodude)[v:PokemonName]?")
+  plan (Y2BmkCvISaxML8ovzUvRK8jPTk1JrQhJLS7RCwCyc/PzGDRwyLtl5qVA1ThV+iXmpjIo4TcJrIaJgRGIGYAkIwMIQPkA)
+  last-modified (1547061912790)
+}
+train (t-wtnl0cwhu9an49j3h0jiln4ay) {
+  utterance ("[g:FindPokemonByType] Show me (fire)[v:PokemonTypeName] pokemon")
+  plan (Y2BlkCvISaxML8ovzUvRK8jPTk1JrQhJLS7RCwCyc/PzGDRwyLtl5qVA1ThVhlQWpDKo4DcJpMYzhUEThyrn/Lyy1KISJMUMaoQN9EvMTWVgYWBkYGJgBtIMUBYjmAUCTEAaKA4A)
+  last-modified (1547061912934)
+}

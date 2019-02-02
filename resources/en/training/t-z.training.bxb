@@ -1,0 +1,10 @@
+train (t-zb168yqgpjh0h852uwcmdgouq) {
+  utterance ("[g:FindPokemonByName] Who are (pikachu)[v:PokemonName] and (raichu)[v:PokemonName]?")
+  plan (Y2BlkCvISaxML8ovzUvRK8jPTk1JrQhJLS7RCwCyc/PzGDRwyLtl5qVA1ThV+iXmpjIo4TeJqmpYGBgZmBiYgTQDmMUEJBkYeICQASjKCJEBAA==)
+  last-modified (1547061075100)
+}
+train (t-zcf2i8c8i8fbudtri5wg79824) {
+  utterance ("[g:FindPokemonByName] Who is (Dugtrio)[v:PokemonName]?")
+  plan (Y2BmkCvISaxML8ovzUvRK8jPTk1JrQhJLS7RCwCyc/PzGDRwyLtl5qVA1ThV+iXmpjIo4TcJrIaJgRGIGYAkIwMIQPkA)
+  last-modified (1547061913173)
+}

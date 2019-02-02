@@ -1,0 +1,28 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (FindPokemonById) {
+      accepted-inputs (pokemonId)
+      local-endpoint ("FindPokemonById.js")
+    }
+    action-endpoint (FindPokemonByName) {
+      accepted-inputs (pokemonName)
+      local-endpoint ("FindPokemonByName.js")
+    }
+    action-endpoint (FindPokemonByType) {
+      accepted-inputs (pokemonTypeId)
+      local-endpoint ("FindPokemonByType.js")
+    }
+    action-endpoint (ConvertPokemonType) {
+      accepted-inputs (pokemonTypeName)
+      local-endpoint ("ConvertPokemonType.js")
+    }
+    action-endpoint (CountPokemonByType) {
+      accepted-inputs (pokemonTypeId)
+      local-endpoint ("CountPokemonByType.js")
+    }
+    action-endpoint (FindTypeOfPokemon) {
+      accepted-inputs (pokemon)
+      local-endpoint ("FindTypeOfPokemon.js")
+    }
+  }
+}

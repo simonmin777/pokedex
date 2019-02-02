@@ -1,0 +1,5 @@
+train (t-40rxzp2xjx3hjdyu3bh5hsdth) {
+  utterance ("[g:FindPokemonByName] Show me (Beedrill)[v:PokemonName]")
+  plan (Y2BmkCvISaxML8ovzUvRK8jPTk1JrQhJLS7RCwCyc/PzGDRwyLtl5qVA1ThV+iXmpjIo4TcJrIaJgRGIGYAkIwMIQPkA)
+  last-modified (1547061911213)
+}

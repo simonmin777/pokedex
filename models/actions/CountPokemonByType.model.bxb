@@ -1,0 +1,11 @@
+action (CountPokemonByType) {
+  type(Search)
+  description (Counts the number of pokemon of a type)
+  collect {
+    input (pokemonTypeId) {
+      type (PokemonTypeId)
+      min (Required) max (One)
+    }
+  }
+  output (PokemonTypeCount)
+}

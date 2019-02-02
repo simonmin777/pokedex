@@ -1,0 +1,12 @@
+dialog (Result) {
+  match {
+    Pokemon (this)
+  }
+  if(size(this) > 1) {
+    template("I found these pokemon.")
+  }else-if(size(this) == 1 ) {
+    template ("I found #{value(this.pokemonName)}.")
+  }else{
+    template("I couldn't find any pokemon.")
+  }
+}

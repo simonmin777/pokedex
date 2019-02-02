@@ -1,0 +1,5 @@
+train (t-stpj8wa5wons3w114zehq859k) {
+  utterance ("[g:FindTypeOfPokemon] What type is (Charizard)[v:PokemonName]?")
+  plan (Y2BlUCvISaxML8ovzUvRK8jPTk1JrQhJLS7RCwCyc/PzQioLUv0Sc1MZNHCoc8vMSwEp8k+D6mCQw28iXpOgapwqwXYq4TcJrIaFgZGBiYEZSDNAWYxgFggwAWmgOAA=)
+  last-modified (1547059767490)
+}

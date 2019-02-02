@@ -1,0 +1,5 @@
+train (t-n46eya5fr6gyzv92zozoqrznq) {
+  utterance ("[g:FindPokemonByName] Show me (Charmander)[v:PokemonName], (Charmeleon)[v:PokemonName], and (Charizard)[v:PokemonName]")
+  plan (Y2BjkCvISaxML8ovzUvRK8jPTk1JrQhJLS7RCwCyc/PzGDRwyLtl5qVA1ThV+iXmpjIo4TeJ7mpYGRgZmBiYGViALAYwGwQZgWweMGQAyjAC5VmBNAMA)
+  last-modified (1547061403986)
+}

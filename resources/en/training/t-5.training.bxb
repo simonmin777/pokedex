@@ -1,0 +1,5 @@
+train (t-564dalychlsyfksqthpmrcru1) {
+  utterance ("[g:CountPokemonByType] how many (psychic)[v:PokemonTypeName] pokemon are there?")
+  plan (Y2BlUC/ISaxML8ovzUvRK8jPTk1JrQhJLS7RCwCyc/PzQioLUp2BkiUMmjgUgmWhqp0qQeoZVAib6ZmCx8C8stSiEiTFDGqEDfRLzE1lYGFgZGBiYAbSDFAWI5gFAkxAGigOAA==)
+  last-modified (1547067968359)
+}

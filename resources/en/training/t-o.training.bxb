@@ -1,0 +1,15 @@
+train (t-o1k9i5749honiy3gjv0vlllxc) {
+  utterance ("[g:FindPokemonByName] how me (Persian)[v:PokemonName], (Venusaur)[v:PokemonName], (psyduck)[v:PokemonName],(beedrill)[v:PokemonName], (butterfree)[v:PokemonName], (onyx)[v:PokemonName], (goldeen)[v:PokemonName], and (mew)[v:PokemonName]")
+  plan (Y+BmkCvISaxML8ovzUvRK8jPTk1JrQhJLS7RCwCyc/PzGDRwyLtl5qVA1ThV+iXmpjIo4TdpVA0RargYGBmYGJgZWBhYGdgY2Bk4GDiBYgxgUVTICBTlQYMMQNWMQN1cQJoDqJsNaAoLAwMA)
+  last-modified (1547061797449)
+}
+train (t-o9i895glv92t03hmmbrm5hsyh) {
+  utterance ("[g:FindPokemonByName] Who are (Geodude)[v:PokemonName], (Arbok)[v:PokemonName], (Meowth)[v:PokemonName], and (Haunter)[v:PokemonName]?")
+  plan (Y2BnkCvISaxML8ovzUvRK8jPTk1JrQhJLS7RCwCyc/PzGDRwyLtl5qVA1ThV+iXmpjIo4TdpUKphY2BkYGJgZmBhYAWyGcA8CGQE8nigkAEoywhUxQakWRgYAA==)
+  last-modified (1547061484904)
+}
+train (t-oi4ri0pih2w6kshn74rzohd2o) {
+  utterance ("[g:FindPokemonByName] Show me (Psyduck)[v:PokemonName]")
+  plan (Y2BmkCvISaxML8ovzUvRK8jPTk1JrQhJLS7RCwCyc/PzGDRwyLtl5qVA1ThV+iXmpjIo4TcJrIaJgRGIGYAkIwMIQPkA)
+  last-modified (1547061911926)
+}

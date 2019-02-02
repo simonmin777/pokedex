@@ -1,0 +1,23 @@
+structure (Pokemon) {
+  description (Model of a Pokemon)
+  property (pokemonName) {
+    type (PokemonName)
+    min (Required) max (One)
+  }
+  property (pokemonId) {
+    type (PokemonId)
+    min (Required) max (One)
+  }
+//  property (pokemonTypeId) {
+//    type (PokemonTypeId)
+//    min (Required) max (One)
+//  }  
+  property (pokemonTypeName) {
+    type (PokemonTypeName)
+    min (Required) max (Many)
+  }
+  property (pokemonImageUrl) {
+    type (PokemonImageUrl)
+    min (Required) max (One)
+  }
+}
